@@ -7,3 +7,5 @@ if the input is valid it continues to say what numbers are smaller than the inpu
 if the input is invalid it asks for an input again until a suitable input is provided
 finally the programme asks the user if they want to try again, if the user says yes then they are prompted for input
 if the user chooses not to continue then the programme ends.
+
+Ritwik Satpathy
