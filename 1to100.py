@@ -34,6 +34,7 @@ while True:
 		if ask.lower()[0]=='y':
 			continue
 		else:
+			print('This was brought to you by Ritwik Satpathy')
 			break
 
 # Ritwik Satpathy
